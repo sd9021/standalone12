@@ -298,7 +298,7 @@ function printTable(tilearray) {
 			'<div class="col-sm-1">My Bid</div>';
 		} else {
 			content += 
-			'<div class="col-sm-2">' +
+			'<div class="col-sm-1">' +
 			'</div>';
 		}
 		
